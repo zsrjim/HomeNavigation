@@ -1,0 +1,1 @@
+docker build -t nuanxinqing123/home_navigation:latest .
