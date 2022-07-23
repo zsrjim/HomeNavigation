@@ -35,7 +35,7 @@ docker-compose down
 
 ### docker
 ```
-git clone https://github.com/nuanxinqing123/HomeNavigation.git
+git clone https://github.com/shidahuilang/HomeNavigation && cd HomeNavigation
 cd HomeNavigation
 docker build -t HomeNavigation:latest .
 docker run -itd --name=HomeNavigation -v $PWD/conf:/conf $PWD/img:/img -p 8100:8100 HomeNavigation:latest
