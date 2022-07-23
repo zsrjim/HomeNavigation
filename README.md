@@ -36,9 +36,7 @@ docker-compose down
 ### docker
 ```
 git clone https://github.com/shidahuilang/HomeNavigation && cd HomeNavigation
-cd HomeNavigation
-docker build -t HomeNavigation:latest .
-docker run -itd --name=HomeNavigation -v $PWD/conf:/conf $PWD/img:/img -p 8100:8100 HomeNavigation:latest
+docker run -itd --name=HomeNavigation --restart=always -v /root/HomeNavigation/conf:/conf -v /root/HomeNavigation/img:/img -p 8100:8100 shidahuilang/home_navigation:latest
 ```
 
 好了，部署完成。如果需要修改前端的显示内容，直接修改 conf/config.json里面的内容就好了。还有就是启动命令默认是8082端口，大家自行修改一下
