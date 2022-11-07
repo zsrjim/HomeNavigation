@@ -16,65 +16,65 @@
       "id": 1,
       "title": "爱快路由",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/516140fe95e8c2cf.png",
-      "w_link": "http://ok.czks.cc:4000/login#/login",
-      "n_link": "http://ok.czks.cc:4000/login#/login"
+      "w_link": "http://ok.c/login#/login",
+      "n_link": "http://ok./login#/login"
     },
     {
       "id": 2,
       "title": "OpenWrt",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdpic.tiankong.com%2Fd1%2Fw2%2FQJ8438804934.jpg&refer=http%3A%2F%2Fdpic.tiankong.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653400763&t=668d524c015a89252a29eab70c4b6319",
-      "w_link": "http://ok.czks.cc:4001",
-      "n_link": "http://ok.czks.cc:4001"
+      "w_link": "http://ok.c1",
+      "n_link": "http://ok.czk1"
     },
 
     {
       "id": 3,
       "title": "我的网盘",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2Fd043ad4bd11373f0bb44fd31aa0f4bfbfbed0420&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653399432&t=27e66b2e48fe68741ac307c5b5a463c8",
-      "w_link": "http://ok.czks.cc:5244",
-      "n_link": "http://ok.czks.cc:5244"
+      "w_link": "http://ok.c",
+      "n_link": "http://ok"
     },
     {
       "id": 4,
       "title": "DDNS",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/83556c01ee6a6bf4.png",
-      "w_link": "http://ok.czks.cc:9876",
-      "n_link": "http://ok.czks.cc:9876"
+      "w_link": "http://ok",
+      "n_link": "http://ok"
     },
     {
       "id": 5,
       "title": "阅读",
       "ico": "https://s3.bmp.ovh/imgs/2022/11/07/0a3cd6a6bd747abf.png",
-      "w_link": "http://43.129.253.133:8400",
-      "n_link": "http://43.129.253.133:8400"
+      "w_link": "http://43",
+      "n_link": "http://43.1"
     },
     {
       "id": 6,
       "title": "Emby",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F018c7157c7a1930000012e7ecf0a4d.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653400602&t=66d3a8c8531b07fe21a97f6d31d080c0",
-      "w_link": "http://ok.czks.cc:8096",
-      "n_link": "http://ok.czks.cc:8096"
+      "w_link": "http://ok.",
+      "n_link": "http://ok"
     },
     {
       "id": 7,
       "title": "LXC-Docker",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/b761fb03ce7da22c.png",
-      "w_link": "http://ok.czks.cc:9000",
-      "n_link": "http://ok.czks.cc:9000"
+      "w_link": "http://ok",
+      "n_link": "http://ok"
     },
     {
       "id": 8,
       "title": "腾讯云",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/b761fb03ce7da22c.png",
-      "w_link": "http://43.129.253.133:9000",
-      "n_link": "http://43.129.253.133:9000"
+      "w_link": "http://43",
+      "n_link": "http://43"
     },
     {
       "id": 9,
       "title": "docker应用",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/b761fb03ce7da22c.png",
-      "w_link": "http://ok.czks.cc:9001",
-      "n_link": "http://ok.czks.cc:9001"
+      "w_link": "http://ok",
+      "n_link": "http://ok"
     },
 
 
@@ -82,59 +82,59 @@
       "id": 10,
       "title": "青龙面板",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/1d9fd44a421ca67d.png",
-      "w_link": "http://152.70.107.100:5700/",
-      "n_link": "http://152.70.107.100:5700/"
+      "w_link": "http://152",
+      "n_link": "http://152"
     },
     {
       "id": 11,
       "title": "微博图床",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/f7335e7145378604.png",
-      "w_link": "http://43.129.253.133:8111",
-      "n_link": "http://43.129.253.133:8111"
+      "w_link": "http://43.",
+      "n_link": "http://43"
     },
     {
       "id": 12,
       "title": "AdGuardHome ",
       "ico": "https://s3.bmp.ovh/imgs/2022/08/31/d3faabf4c9d0b9b0.jpg",
-      "w_link": "http://ok.czks.cc:88",
-      "n_link": "http://ok.czks.cc:88"
+      "w_link": "http:/",
+      "n_link": "http"
     },
 
     {
       "id": 13,
       "title": "ARK获取",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/27b8fe35e962c5b6.png",
-      "w_link": "http://43.129.253.133:5701/",
-      "n_link": "http://152.70.107.100:5701/"
+      "w_link": "htt",
+      "n_link": "http:"
     },
     {
       "id": 14,
       "title": "诺兰CK获取",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/27b8fe35e962c5b6.png",
-      "w_link": "http://43.129.253.133:5702/",
-      "n_link": "http://43.129.253.133:5702/"
+      "w_link": "http://",
+      "n_link": "http:"
     },
 
     {
       "id": 15,
       "title": "qBittorrent",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/22410b39c8601452.png",
-      "w_link": "http://ok.czks.cc:8085/",
-      "n_link": "http://ok.czks.cc:8085/"
+      "w_link": "ht",
+      "n_link": "http"
     },
     {
       "id": 16,
       "title": "NAS管理",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/195208052b4847d1.png",
-      "w_link": "http://ok.czks.cc:5000",
-      "n_link": "https://nas.czks.cc:5001"
+      "w_link": "http:/",
+      "n_link": "http"
     },
     {
       "id": 17,
       "title": "PVE监控",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fupload-images.jianshu.io%2Fupload_images%2F18860059-e3cd2ae23f55427e.jpg&refer=http%3A%2F%2Fupload-images.jianshu.io&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653325675&t=138787b6b061304cf5b5034243bcb7b9",
-      "w_link": "https://ok.czks.cc:8006/#v1:0:18:4:::::::",
-      "n_link": "https://ok.czks.fun:8006/#v1:0:18:4:::::::"
+      "w_link": "htt",
+      "n_link": "ht"
     }
   ],
   "Footer": [
@@ -147,8 +147,8 @@
       "TextLink": ""
     },
     {
-      "Text": "大灰狼",
-      "TextLink": "https://github.com/shidahuilang"
+      "Text": "大灰",
+      "TextLink": "https://github.com/shid"
     }
   ],
   "FooterStyle": {
