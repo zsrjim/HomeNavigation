@@ -17,14 +17,14 @@
       "title": "爱快路由",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/516140fe95e8c2cf.png",
       "w_link": "http://ok.czks.cc:4000/login#/login",
-      "n_link": "http://ok.czks.fun:4000/login#/login"
+      "n_link": "http://ok.czks.cc:4000/login#/login"
     },
     {
       "id": 2,
       "title": "OpenWrt",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fdpic.tiankong.com%2Fd1%2Fw2%2FQJ8438804934.jpg&refer=http%3A%2F%2Fdpic.tiankong.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653400763&t=668d524c015a89252a29eab70c4b6319",
       "w_link": "http://ok.czks.cc:4001",
-      "n_link": "http://ok.czks.fun:4001"
+      "n_link": "http://ok.czks.cc:4001"
     },
 
     {
@@ -32,19 +32,19 @@
       "title": "我的网盘",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbkimg.cdn.bcebos.com%2Fpic%2Fd043ad4bd11373f0bb44fd31aa0f4bfbfbed0420&refer=http%3A%2F%2Fbkimg.cdn.bcebos.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653399432&t=27e66b2e48fe68741ac307c5b5a463c8",
       "w_link": "http://ok.czks.cc:5244",
-      "n_link": "http://ok.czks.fun:5244"
+      "n_link": "http://ok.czks.cc:5244"
     },
     {
       "id": 4,
       "title": "DDNS",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/83556c01ee6a6bf4.png",
       "w_link": "http://ok.czks.cc:9876",
-      "n_link": "http://ok.czks.fun:9876"
+      "n_link": "http://ok.czks.cc:9876"
     },
     {
       "id": 5,
       "title": "阅读",
-      "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgo.tljpxm.com%2Fshare%2F2017%2F20170913%2F2612719120.png&refer=http%3A%2F%2Fimgo.tljpxm.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653398773&t=63992d98777c1b82d0db68c09426eb6a",
+      "ico": "https://s3.bmp.ovh/imgs/2022/11/07/0a3cd6a6bd747abf.png",
       "w_link": "http://43.129.253.133:8400",
       "n_link": "http://43.129.253.133:8400"
     },
@@ -53,14 +53,14 @@
       "title": "Emby",
       "ico": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F018c7157c7a1930000012e7ecf0a4d.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653400602&t=66d3a8c8531b07fe21a97f6d31d080c0",
       "w_link": "http://ok.czks.cc:8096",
-      "n_link": "http://ok.czks.fun:8096"
+      "n_link": "http://ok.czks.cc:8096"
     },
     {
       "id": 7,
       "title": "LXC-Docker",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/b761fb03ce7da22c.png",
       "w_link": "http://ok.czks.cc:9000",
-      "n_link": "http://ok.czks.fun:9000"
+      "n_link": "http://ok.czks.cc:9000"
     },
     {
       "id": 8,
@@ -74,7 +74,7 @@
       "title": "docker应用",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/b761fb03ce7da22c.png",
       "w_link": "http://ok.czks.cc:9001",
-      "n_link": "http://ok.czks.fun:9001"
+      "n_link": "http://ok.czks.cc:9001"
     },
 
 
@@ -89,8 +89,8 @@
       "id": 11,
       "title": "微博图床",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/f7335e7145378604.png",
-      "w_link": "http://ok.czks.cc:8300",
-      "n_link": "http://ok.czks.cc:8300"
+      "w_link": "http://43.129.253.133:8111",
+      "n_link": "http://43.129.253.133:8111"
     },
     {
       "id": 12,
@@ -111,8 +111,8 @@
       "id": 14,
       "title": "诺兰CK获取",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/23/27b8fe35e962c5b6.png",
-      "w_link": "http://ok.czks.cc:5702/",
-      "n_link": "http://ok.czks.cc:5702/"
+      "w_link": "http://43.129.253.133:5702/",
+      "n_link": "http://43.129.253.133:5702/"
     },
 
     {
@@ -120,7 +120,7 @@
       "title": "qBittorrent",
       "ico": "https://s3.bmp.ovh/imgs/2022/04/24/22410b39c8601452.png",
       "w_link": "http://ok.czks.cc:8085/",
-      "n_link": "http://ok.czks.fun:8085/"
+      "n_link": "http://ok.czks.cc:8085/"
     },
     {
       "id": 16,
